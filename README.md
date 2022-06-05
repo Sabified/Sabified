@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sabified
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a python project
+- 🌱 I’m currently learning python and unity
+- 💞️ I’m looking to collaborate on a python or unity project
 - 📫 How to reach me: https://www.reddit.com/user/SabifiedSab
 
 <!---
